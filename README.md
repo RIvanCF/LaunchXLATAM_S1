@@ -14,15 +14,17 @@ Descripción:
   - Al usuario le llegan correos de notificación para saber el avance de su proceso.
   - La página debe de ser responsive para poderla ver desde el celular.
   - La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
+```
 
-      *Practicas*
-    - Toma de requerimientos
-    - Crea tu buyer persona
-    - Publico objetivo
-    - Crea tu primer Wireframe UX
-    - Ahora el UI
- ```
+### Practicas
+- Toma de requerimientos
+- Crea tu buyer persona
+- Publico objetivo
+- Crea tu primer Wireframe UX
+- Ahora el UI
+
 ## Resultados de la practica 
 <a href="https://github.com/RIvanCF/LaunchXLATAM_S1/blob/main/Toma%20de%20requerimientos/Toma_de_requerimientos.pdf"><img src="https://img.shields.io/badge/INTRO-Toma%20de%20requerimientos%20-green"></a><br>
-<a href="https://github.com/RIvanCF/LaunchXLATAM_S1/blob/main/Gabriel%20Duque%20Leyes.pdf"><img src="https://img.shields.io/badge/INTRO-Buyer%20Persona-green"></a>
+<a href="https://github.com/RIvanCF/LaunchXLATAM_S1/blob/main/Gabriel%20Duque%20Leyes.pdf"><img src="https://img.shields.io/badge/INTRO-Buyer%20Persona-green"></a><br>
+<a href="https://www.canva.com/design/DAFQEdjg8NQ/dQrap8XY2rJ-p3gsADRhpA/edit?utm_content=DAFQEdjg8NQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><img src="https://img.shields.io/badge/INTRO-P%C3%BAblico%20Objetivo%20(Canva)-green"></a>
 
