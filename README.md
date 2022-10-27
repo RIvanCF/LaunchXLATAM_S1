@@ -23,5 +23,5 @@ Descripción:
     - Ahora el UI
  ```
 ## Toma de requerimientos 
-
+<a href="https://github.com/RIvanCF/LaunchXLATAM_S1/blob/main/Toma%20de%20requerimientos/Toma_de_requerimientos.pdf"><img src="https://img.shields.io/badge/INTRO-Toma%20de%20requerimientos%20-green"></a>
 
