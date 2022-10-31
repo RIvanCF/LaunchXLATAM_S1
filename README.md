@@ -28,4 +28,5 @@ Descripción:
 <a href="https://github.com/RIvanCF/LaunchXLATAM_S1/blob/main/Gabriel%20Duque%20Leyes.pdf"><img src="https://img.shields.io/badge/INTRO-Buyer%20Persona-green"></a><br>
 <a href="https://www.canva.com/design/DAFQEdjg8NQ/dQrap8XY2rJ-p3gsADRhpA/edit?utm_content=DAFQEdjg8NQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><img src="https://img.shields.io/badge/INTRO-P%C3%BAblico%20Objetivo%20(Canva)-green"></a>
 <a href="https://github.com/RIvanCF/LaunchXLATAM_S1/blob/main/Publico%20Objetivo.pdf"><img src="https://img.shields.io/badge/INTRO-P%C3%BAblico%20Objetivo%20(PDF)-green"></a><br>
+<a href="https://github.com/RIvanCF/LaunchXLATAM_S1/blob/main/Wireframe%20UX/wireframe%20UX%20Desktop.pdf"><img src="https://img.shields.io/badge/INTRO-Desktop-green"></a><br>
 
