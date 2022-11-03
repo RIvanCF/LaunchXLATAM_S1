@@ -35,6 +35,8 @@ Descripción:
 <a href="https://github.com/RIvanCF/LaunchXLATAM_S1/tree/main/UI/UI%20JPG"><img src="https://img.shields.io/badge/INTRO-UI%20(PDF)-green"></a><br>
 
 ## Créditos 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"><br>
 <em>Elaborado por: Cruz Flores Rodrigo Iván</em><br><br>
 [![Twitter: TesMov_1994](https://img.shields.io/twitter/follow/TesMov_1994?style=social)](https://www.twitter.com/TesMov_1994)
 [![GitHub: RIvanCF](https://img.shields.io/github/followers/RIvanCF?style=social)](https://github.com/RIvanCF)
+
