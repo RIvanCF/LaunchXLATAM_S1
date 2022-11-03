@@ -24,9 +24,12 @@ Descripción:
 - Ahora el UI
 
 ## Resultados de la practica 
+### Links 🔗
+
 <a href="https://github.com/RIvanCF/LaunchXLATAM_S1/blob/main/Toma%20de%20requerimientos/Toma_de_requerimientos.pdf"><img src="https://img.shields.io/badge/INTRO-Toma%20de%20requerimientos%20-green"></a><br>
 <a href="https://github.com/RIvanCF/LaunchXLATAM_S1/blob/main/Gabriel%20Duque%20Leyes.pdf"><img src="https://img.shields.io/badge/INTRO-Buyer%20Persona-green"></a><br>
 <a href="https://www.canva.com/design/DAFQEdjg8NQ/dQrap8XY2rJ-p3gsADRhpA/edit?utm_content=DAFQEdjg8NQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><img src="https://img.shields.io/badge/INTRO-P%C3%BAblico%20Objetivo%20(Canva)-green"></a>
 <a href="https://github.com/RIvanCF/LaunchXLATAM_S1/blob/main/Publico%20Objetivo.pdf"><img src="https://img.shields.io/badge/INTRO-P%C3%BAblico%20Objetivo%20(PDF)-green"></a><br>
 <a href="https://github.com/RIvanCF/LaunchXLATAM_S1/blob/main/Wireframe%20UX/wireframe%20UX%20Desktop.pdf"><img src="https://img.shields.io/badge/INTRO-Desktop-green"></a><br>
+<a href="https://www.canva.com/design/DAFQpHTIqas/FDuFcbOVxIoSs8q31Bmrpw/view?utm_content=DAFQpHTIqas&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"><img src="https://img.shields.io/badge/INTRO-UI-green"></a><br>
 
